@@ -4,16 +4,16 @@ Outline:
 
 1.  Introduction
 
-2.  Historical development
+2.  Historical Development
 
-    1.  Pre-Columbian period
+    1.  The Pre-Columbian Period
 
-    2.  Colonial period
+    2.  The Colonial Period
 
         1.  Proprietary colony
         2.  Crown colony
 
-    3.  Independence thru 1860
+    3.  Independence Through 1860
 
     4.  The Civil War and Reconstruction (1861–76)
 
@@ -27,21 +27,21 @@ Outline:
 
     9.  Republican Ascendancy (2000–present)
 
-    10. Georgia today and future trends
+    10. Georgia Today and Future Trends
 
         1.  Demographic characteristics
 
             1.  Population diversity
             2.  Urbanization, suburbanization, and exurbanization
 
-        2.  Political
+        2.  Political trends
 
-3.  Georgia’s constitutions
+3.  Georgia’s Constitutions
 
-    1.  Role within federal system
-    2.  Previous constitutions
+    1.  Role within the federal system
+    2.  Previous Constitutions
     3.  The 1983 Constitution
-    4.  Amendment and revision of the constitution
+    4.  Amendment and Revision of the Constitution
 
 4.  The General Assembly
 
@@ -49,7 +49,7 @@ Outline:
     2.  The Senate
     3.  Leadership
     4.  Committees
-    5.  Members: characteristics, compensation, etc.
+    5.  Members: characteristics, compensation, etc.        
     6.  Staff and other resources
     7.  Legislative sessions
 
@@ -57,7 +57,7 @@ Outline:
 
     1.  Governor
 
-    2.  Lt. Governor
+    2.  Lieutenant Governor
 
     3.  Attorney General
 
@@ -78,7 +78,7 @@ Outline:
     2.  Criminal law
     3.  Civil and family law
 
-7.  Political subdivisions
+7.  Local Government
 
     1.  Dillon’s Rule and Home Rule
 
@@ -102,22 +102,22 @@ Outline:
         1.  MARTA and the ATL
         2.  Others
 
-    6.  Intergovernmental bodies
+    6.  Intergovernmental Bodies
 
         1.  Municipal planning organizations
         2.  Regional commissions
 
-8.  Political parties and organized interests
+8.  Parties and Interest Groups
 
-    1.  Major parties
+    1.  Major Parties
 
-    2.  Minor parties and “political bodies”
+    2.  Minor Parties and “Political Bodies”
 
-    3.  Interest groups
+    3.  Interest Groups
 
         1.  Business
-        2.  Consumer and public interest
-        3.  Issue-based groups
+        2.  Consumer and Public Interest
+        3.  Issue-based Groups
 
 9.  Elections in Georgia
 
@@ -127,29 +127,29 @@ Outline:
     4.  Special elections
     5.  Voting rights
 
-10. Public policy
+10. Public Policy
 
     1.  Education
 
-        1.  Pre-K
-        2.  K-12
-        3.  Higher education
+        1.  Pre-Kindergarten
+        2.  Elementary and Secondary Education
+        3.  Higher Education
 
-    2.  Public safety and criminal justice
+    2.  Public Safety and Criminal Justice
 
-    3.  Health and welfare
+    3.  Health and Welfare
 
-    4.  Economic development and transportation
+    4.  Economic Development and Transportation
 
-    5.  Environment and natural resources
+    5.  The Environment and Natural Resources
 
-    6.  Budget politics
+    6.  Budget Politics
 
-        1.  Tax policy
+        1.  Tax Policy
 
             1.  Income tax
             2.  Sales and use taxes
             3.  Property tax (real and personal property)
             4.  Title *ad valorem* tax
 
-        2.  Budget process
+        2.  The Budget Process
