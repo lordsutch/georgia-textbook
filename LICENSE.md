@@ -1,10 +1,13 @@
-Copyright © 2020 Christopher N. Lawrence
+Copyright © 2021 Christopher N. Lawrence
 
-This work (except the exceptions listed below) is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License.
-To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/
-or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+This work (except the exceptions listed below) is licensed under the
+Creative Commons Attribution-ShareAlike 4.0 International License.  To
+view a copy of this license, visit
+http://creativecommons.org/licenses/by-sa/4.0/ or send a letter to
+Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
 
-All source and executable code, including the Makefile, is licensed under the MIT License, as follows:
+All source and executable code, including the Makefile, is licensed
+under the MIT License, as follows:
 
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation
