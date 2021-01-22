@@ -119,7 +119,7 @@ Outline:
         2.  Consumer and Public Interest
         3.  Issue-based Groups
 
-9.  Elections in Georgia
+9.  Elections and Voting
 
     1.  Redistricting
     2.  Primary elections
