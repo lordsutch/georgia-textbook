@@ -1,0 +1,6 @@
+# Ignore backup files
+*~
+# Ignore output files
+*.pdf
+*.epub
+*.html
