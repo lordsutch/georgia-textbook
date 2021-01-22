@@ -6,10 +6,10 @@ OTHERS = bibliography.bib $(wildcard */*.jpg */*.svg */*.svgz)
 all: textbook.pdf textbook.epub textbook.html
 
 textbook.pdf: $(SOURCES) $(OTHERS)
-	pandoc -C --toc -o $@ $(SOURCES)
+	pandoc --pdf-engine=lualatex --number-sections -C --toc -o $@ $(SOURCES)
 
 textbook.epub: $(SOURCES) $(OTHERS)
-	pandoc -C -o $@ $(SOURCES)
+	pandoc --number-sections -C -o $@ $(SOURCES)
 
 textbook.html: $(SOURCES) $(OTHERS)
-	pandoc -C -s --toc -o $@ $(SOURCES)
+	pandoc --section-divs --number-sections -C -s --toc --self-contained -o $@ $(SOURCES)
