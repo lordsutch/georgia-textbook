@@ -99,7 +99,7 @@ Outline:
 
     5.  Special-purpose subdivisions
 
-        1.  MARTA and the ATL
+        1.  MARTA and The ATL
         2.  Others
 
     6.  Intergovernmental Bodies
@@ -129,21 +129,7 @@ Outline:
 
 10. Public Policy
 
-    1.  Education
-
-        1.  Pre-Kindergarten
-        2.  Elementary and Secondary Education
-        3.  Higher Education
-
-    2.  Public Safety and Criminal Justice
-
-    3.  Health and Welfare
-
-    4.  Economic Development and Transportation
-
-    5.  The Environment and Natural Resources
-
-    6.  Budget Politics
+    1.  Budget Politics
 
         1.  Tax Policy
 
@@ -153,3 +139,18 @@ Outline:
             4.  Title *ad valorem* tax
 
         2.  The Budget Process
+
+    2.  Education
+
+        1.  Pre-Kindergarten
+        2.  Elementary and Secondary Education
+        3.  Higher Education
+
+    3.  Public Safety and Criminal Justice
+
+    4.  Health and Welfare
+
+    5.  Economic Development and Transportation
+
+    6.  The Environment and Natural Resources
+
