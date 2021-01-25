@@ -29,19 +29,19 @@ Outline:
 
     10. Georgia Today and Future Trends
 
-        1.  Demographic characteristics
+        1.  Demographic Characteristics
 
             1.  Population diversity
             2.  Urbanization, suburbanization, and exurbanization
 
-        2.  Political trends
+        2.  Political Trends
 
 3.  Georgia’s Constitutions
 
-    1.  Role within the federal system
-    2.  Previous Constitutions
+    1.  Federalism and State Constitutions
+    2.  Georgia's Previous Constitutions
     3.  The 1983 Constitution
-    4.  Amendment and Revision of the Constitution
+    4.  Constitutional Amendments and Conventions
 
 4.  The General Assembly
 
@@ -49,7 +49,7 @@ Outline:
     2.  The Senate
     3.  Leadership
     4.  Committees
-    5.  Members: characteristics, compensation, etc.        
+    5.  Members: characteristics, compensation, etc.
     6.  Staff and other resources
     7.  Legislative sessions
 
@@ -63,18 +63,18 @@ Outline:
 
     4.  Secretary of State
 
-    5.  Other statewide offices
+    5.  Other statewide elected offices
 
-        1.  School superintendent
-        2.  Agriculture commissioner
-        3.  Labor commissioner
-        4.  Public service commission
+        1.  School Superintendent
+        2.  Agriculture Commissioner
+        3.  Labor Commissioner
+        4.  Public Service Commission
 
     6.  Departments, boards, and other agencies
 
 6.  The Judiciary
 
-    1.  Original vs appellate courts
+    1.  Organization
     2.  Criminal law
     3.  Civil and family law
 
@@ -84,16 +84,20 @@ Outline:
 
     2.  Counties
 
-        1.  Rationale
+        1.  Responsibilities
         2.  Government structures – commissioner(s), vestiges of the
             county beat system
         3.  Constitutional and other officers
 
     3.  Municipalities
 
-        1.  Types of government: strong mayor, weak mayor,
-            council-manager, commissioner
-        2.  City-county consolidation
+        1.  Responsibilities
+        2.  Types of government
+            1.  Strong mayor
+            2.  Weak mayor
+            3.  Council-manager
+            4.  Commissioner
+        3.  City-county consolidation
 
     4.  School districts
 
@@ -118,6 +122,7 @@ Outline:
         1.  Business
         2.  Consumer and Public Interest
         3.  Issue-based Groups
+        4.  Intergovernmental Lobbying
 
 9.  Elections and Voting
 
@@ -153,4 +158,3 @@ Outline:
     5.  Economic Development and Transportation
 
     6.  The Environment and Natural Resources
-
