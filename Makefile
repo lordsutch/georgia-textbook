@@ -1,4 +1,4 @@
-SOURCES = metadata.yaml $(wildcard */*.md)
+SOURCES = metadata.yaml $(wildcard frontmatter/*.md ch*/*.md endmatter/*.md)
 
 # Other sources that may affect output but shouldn't be passed to pandoc
 OTHERS = bibliography.bib $(wildcard */*.jpg */*.svg */*.svgz)
