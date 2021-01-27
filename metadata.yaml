@@ -1,16 +1,16 @@
 ---
 title: Peach State Politics
 subtitle: Government and Politics in Georgia Today
-creator:
-- role: author
-  text: Christopher N. Lawrence
+author: Christopher N. Lawrence
 rights: Creative Commons Attribution-ShareAlike 4.0 International
 lang: en-US
 date: 2021
 bibliography: bibliography.bib
 documentclass: book
 papersize: letter
-geometry: margin=1.25in
+geometry:
+- margin=1.25in
+- heightrounded
 mainfont: Merriweather
 sansfont: Merriweather Sans
 monofont: Iosevka Slab
